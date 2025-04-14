@@ -676,6 +676,7 @@ const style = {
     display: "flex",
     justifyContent: "end",
     paddingLeft: "30px",
+    color: "#ffffff"
 
     // background: "#FFFFFF",
     // border: "1px solid #E14084",
@@ -708,7 +709,7 @@ const style = {
     fontStyle: "normal",
     fontWeight: 400,
     fontSize: "16px",
-    color: "custom.white",
+    color: "#ffffff",
     padding: "0px !important",
     // "@media(max-width:480px)": {
     //   maxWidth: "120px",

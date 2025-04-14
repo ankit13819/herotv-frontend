@@ -10,7 +10,9 @@ const nftDetails =
       id: 1,
       title: "ankit",
       attributes: {
-        description_asset_tier_mnemonics: "NFT's",
+        description_asset_tier_mnemonics: "Ticket's",
+        asset_tier_mnemonics: "Legendary",
+        max_token_per_user: 5,
         nft_images: {
           data: [
             {
