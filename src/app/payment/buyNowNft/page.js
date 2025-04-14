@@ -10,7 +10,7 @@ const nftDetails =
       id: 1,
       title: "ankit",
       attributes: {
-        description_asset_tier_mnemonics: "GOLD",
+        description_asset_tier_mnemonics: "NFT's",
         nft_images: {
           data: [
             {

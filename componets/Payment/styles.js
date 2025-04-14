@@ -1,6 +1,6 @@
 const style = {
   mainContainer: {
-    backgroundColor: "red",
+    backgroundColor: 'linear-gradient(135deg, #0f0f0f, #1a1a1a)',
     maxWidth: "100%",
     margin: "auto",
     fontFamily: "'Inter',sans-serif !important",
@@ -115,10 +115,10 @@ const style = {
     margin: "0 25px",
     objectFit: "contain",
     maxHeight: "530px",
-    overflowY: "scroll",
+    // overflowY: "scroll",
     "& img": {
       width: "100px",
-      marginBottom: "40px",
+      marginBottom: "30px",
     },
     "& video": {
       width: "100%",
